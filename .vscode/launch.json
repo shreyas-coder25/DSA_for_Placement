@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shreyas/OneDrive/DSA/Arrays/Bit_Manipulation",
-      "program": "c:/Users/Shreyas/OneDrive/DSA/Arrays/Bit_Manipulation/build/Debug/outDebug",
+      "cwd": "c:/Users/Shreyas/OneDrive/DSA/Bit_Manipulation",
+      "program": "c:/Users/Shreyas/OneDrive/DSA/Bit_Manipulation/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
