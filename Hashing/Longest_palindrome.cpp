@@ -31,9 +31,15 @@ public:
 
 int main() {
     string s;
-    cout << "Enter a string";
+    cout << "Enter a string: ";
     cin >> s;
     Solution sol;
     cout << sol.longestPalindrome(s) << endl;
     return 0;
 }
+
+// Important Notes
+
+// Optimal Solution: Hash Map
+// Time Complexity: O(n)
+// Space Complexity: O(n) (in worst case, all characters are distinct)

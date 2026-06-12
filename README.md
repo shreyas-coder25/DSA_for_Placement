@@ -15,4 +15,5 @@ Day 1: 11 June 2026
 
 Category | Problem | Status 
 --- | --- | ---
-Sorting | Contains Duplicate | 
+Sorting | Contains Duplicate | ✅
+

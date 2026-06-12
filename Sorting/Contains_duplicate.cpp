@@ -10,21 +10,11 @@ using namespace std;
 
 class Solution {
 public:
-    bool containsDuplicate_1(vector<int>& nums) { // Using sorting
+    bool containsDuplicate(vector<int>& nums) { // Using sorting
         int n = nums.size();
         sort(nums.begin(), nums.end());
         for (int i=0; i<n-1; i++) {
             if (nums[i] == nums[i+1]) {
-                return true;
-            }
-        }
-        return false;
-    }
-    bool containsDuplicate_2(vector<int>& nums) { // Using hash set
-        int n = nums.size();
-        unordered_set<int> s; 
-        for (int i: nums) {
-            if (!s.insert(i).second) {
                 return true;
             }
         }
@@ -42,7 +32,7 @@ int main() {
         cin >> nums[i];
     }
     Solution sol;
-    if (sol.containsDuplicate_2(nums)) {
+    if (sol.containsDuplicate(nums)) {
         cout << "The array contains duplicates." << endl;
     } else {
         cout << "The array does not contain duplicates." << endl;
@@ -53,8 +43,6 @@ int main() {
 
 /* Notes */
 
-/* containsDuplicate_1: Uses sorting to check for duplicates. Time complexity: O(n log n), Space complexity: O(1).
+/* containsDuplicate: Uses sorting to check for duplicates. Time complexity: O(n log n), Space complexity: O(1).
     (still uses less runtime and memory due to less CPU overhead) */
 
-/* containsDuplicate_2: Uses a hash set to check for duplicates. Time complexity: O(n), Space complexity: O(n). 
-    (uses more memory and more runtime too, because of the additional data structure and CPU overhead) */
