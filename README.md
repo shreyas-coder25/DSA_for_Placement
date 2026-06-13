@@ -11,17 +11,22 @@
 7. Basic recursion
 8. STL basics
 
-Day 1: 11 June 2026
+> Day 1: 11 June 2026
 
 Category | Problem | Status 
 --- | --- | ---
 Sorting | Contains Duplicate | ✅
 Hashing | Contains Duplicate | ✅
 
-Day 2: 12 June 2026
+> Day 2: 12 June 2026
 
 Category | Problem | Status
 --- | --- | ---
 Hashing | Valid Anagram | ✅
 
+> Day 3: 13 June 2026
 
+Category | Problem | Status
+--- | --- | ---
+Two Pointers | Two Sum | ✅
+Hashing | Two Sum | ✅
