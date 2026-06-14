@@ -30,3 +30,9 @@ Category | Problem | Status
 --- | --- | ---
 Two Pointers | Two Sum | ✅
 Hashing | Two Sum | ✅
+
+> Day 4: 14 June 2026
+
+Category | Problem | Status
+--- | --- | ---
+Prefix Sum | Product of Array Except Self | ✅
