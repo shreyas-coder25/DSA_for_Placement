@@ -36,5 +36,5 @@ public:
 
 // Time complexity: O(n) as we traverse the array once.
 // Space complexity: O(1) as we are using the output array to store the results and not using any extra space.
-// To modify the input array, we can store product of all elements in a variable and then divide it by each element to get the result. 
+// To modify the input array and not use extra space, we can store product of all elements in a variable and then divide it by each element to get the result. 
 // However, this approach is not allowed as we cannot use division operation in this question.
