@@ -36,3 +36,18 @@ Hashing | Two Sum | ✅
 Category | Problem | Status
 --- | --- | ---
 Prefix Sum | Product of Array Except Self | ✅
+
+> Day 5: 15 June 2026
+
+Category | Problem | Status
+--- | --- | ---
+Two Pointers | Valid Palindrome | ✅
+Two Pointers | Container With Most water | ✅
+
+> Day 6: 16 June 2026
+
+Category | Problem | Status
+--- | --- | ---
+Sliding Window | Best Time To Buy and Sell | ✅
+Sliding Window | Permutation in String | Optimize more using variable "Matches"
+
