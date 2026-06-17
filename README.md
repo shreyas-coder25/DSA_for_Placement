@@ -51,3 +51,11 @@ Category | Problem | Status
 Sliding Window | Best Time To Buy and Sell | ✅
 Sliding Window | Permutation in String | Optimize more using variable "Matches"
 
+> Day 7: 17 June 2026
+
+category | Problem | Status
+--- | --- | ---
+Bit Manipulation | Count Bits | Optimize using DP
+Bit Manipulation | Single Number | ✅
+Bit Manipulation | Number of 1s | ✅
+

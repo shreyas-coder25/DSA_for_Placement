@@ -18,11 +18,8 @@ public:
     }
 };
 
-int main() {
-    int n;
-    cout << "Enter a number: ";
-    cin >> n;
-    Solution sol;
-    cout << "Number of set bits: " << sol.hammingWeight(n) << endl;
-    return 0;
-}
+// Important points to note:
+// Time complexity: O(k), where k is the number of set bits in n. In the worst case, k can be at most 31 (for a 32-bit integer).
+// Space complexity: O(1). We use only a constant amount of extra space for the variable ans.
+// Property of n & (n-1): This operation removes the lowest set bit from n. 
+// Each time we perform this operation, we effectively count one set bit, which allows us to count all set bits in n efficiently.
