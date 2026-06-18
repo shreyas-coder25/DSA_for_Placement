@@ -59,3 +59,8 @@ Bit Manipulation | Count Bits | Optimize using DP
 Bit Manipulation | Single Number | ✅
 Bit Manipulation | Number of 1s | ✅
 
+> Day 8: 18 June 2026
+
+category | Problem | Status
+--- | --- | ---
+Sorting | Missing Number | ✅
