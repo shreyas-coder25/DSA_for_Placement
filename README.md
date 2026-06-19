@@ -64,3 +64,9 @@ Bit Manipulation | Number of 1s | ✅
 category | Problem | Status
 --- | --- | ---
 Sorting | Missing Number | ✅
+
+> Day 9: 19 June 2026
+
+category | Problem | Status
+--- | --- | ---
+Math | Plus One | ✅ Logical

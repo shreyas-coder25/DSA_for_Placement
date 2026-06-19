@@ -22,27 +22,9 @@ public:
     }
 };
 
-int main() {
-    int n;
-    cout << "Enter the number of elements: ";
-    cin >> n;
-    vector<int> nums(n);
-    cout << "Enter the elements: ";
-    for (int i=0; i<n; i++) {
-        cin >> nums[i];
-    }
-    Solution sol;
-    if (sol.containsDuplicate(nums)) {
-        cout << "The array contains duplicates." << endl;
-    } else {
-        cout << "The array does not contain duplicates." << endl;
-    }
-    return 0;
-}
-
-
 /* Notes */
 
-/* containsDuplicate: Uses sorting to check for duplicates. Time complexity: O(n log n), Space complexity: O(1).
-    (still uses less runtime and memory due to less CPU overhead) */
+/* containsDuplicate: Uses sorting to check for duplicates. 
+Time complexity: O(n log n), Space complexity: O(1).
+(still uses less runtime and memory due to less CPU overhead) */
 

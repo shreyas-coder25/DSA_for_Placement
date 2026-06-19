@@ -97,11 +97,14 @@
 - Watch:
 
 ## Math & Geometry
-- Trigger:
-- Template:
-- Watch:
+- Trigger: "large integer represented as an integer array digits" + "1 <= digits.length <= 100" 
+- Template: Use the basic Math Logic and implement that in code. Don't use BigInteger or any other library.
+- Watch: 1. Integer Overflow (The Silent Killer) - Default to long long for any running sums, products, or combinations.
+        2. Edge Cases - Pay special attention to cases like all 9's, which cause carry-overs that can increase the number of digits.
+        3. ASCII Value Blunder - When a math problem represents numbers as Strings.
 
 ## Bit Manipulation
-- Trigger:
+
+- Trigger: ""
 - Template:
 - Watch: Count Bits — dp[i] = dp[i >> 1] + (i & 1); don't brute-force popcount per number, build the DP array using previously computed smaller values
