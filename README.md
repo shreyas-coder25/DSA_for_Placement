@@ -70,3 +70,15 @@ Sorting | Missing Number | ✅
 category | Problem | Status
 --- | --- | ---
 Math | Plus One | ✅ Logical
+
+
+> Day 10: 20 June 2026
+
+category | Problem | Status
+--- | --- | ---
+2 Pointer Approach | Index of First Occurrence in String | Implement KMP Algorithm
+
+> Day 11: 21 June 2026
+category | Problem | Status
+--- | --- | ---
+Two Pointer Approach | Merge 2 sorted Arrays | ✅
