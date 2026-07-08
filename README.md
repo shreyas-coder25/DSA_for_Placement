@@ -79,6 +79,13 @@ category | Problem | Status
 2 Pointer Approach | Index of First Occurrence in String | Implement KMP Algorithm
 
 > Day 11: 21 June 2026
+
 category | Problem | Status
 --- | --- | ---
 Two Pointer Approach | Merge 2 sorted Arrays | ✅
+
+> Day 12: 8 July 2026
+
+category | Problem | Status
+--- | --- | ---
+Hashing | Top K frequent elements | ✅
