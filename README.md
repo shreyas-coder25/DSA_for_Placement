@@ -95,3 +95,12 @@ Hashing | Top K frequent elements | ✅
 category | Problem | Status
 --- | --- | ---
 2 Pointer Approach | 2 sum when array sorted | ✅
+
+
+> Day 14: 1 August 2026
+
+category | Problem | Status
+--- | --- | ---
+Maths | Sieve of Erasttothenes | ✅
+Maths | Euclids ALgorithm | ✅
+DS | 2D Arrays | ✅
