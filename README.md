@@ -89,3 +89,9 @@ Two Pointer Approach | Merge 2 sorted Arrays | ✅
 category | Problem | Status
 --- | --- | ---
 Hashing | Top K frequent elements | ✅
+
+> Day 13: 25 July 2026
+
+category | Problem | Status
+--- | --- | ---
+2 Pointer Approach | 2 sum when array sorted | ✅

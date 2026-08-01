@@ -1,0 +1,10 @@
+Important Formulas & Concepts to be used in DSA
+
+1. In calculation, when the value is too large, like for O(n!) complexity: for n = 50, 100, it is too large even than long long. 
+    so sometimes it is recommended to tale the modulo by the number (10^9 + 7)
+
+2. Modulo Formulas: 
+    (a*b)%n = a%n * b%n
+    (a +- b)%n = a%n +- b%n
+
+3. 
