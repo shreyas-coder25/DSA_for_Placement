@@ -104,3 +104,10 @@ category | Problem | Status
 Maths | Sieve of Erasttothenes | ✅
 Maths | Euclids ALgorithm | ✅
 DS | 2D Arrays | ✅
+
+> Day 15: 9 August 2026
+
+category | Problem | Status
+--- | --- | ---
+Binary Search | Search in 2D Matrix | ✅
+Binary Search | Search in 2D Matrix II | ✅
