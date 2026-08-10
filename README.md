@@ -111,3 +111,9 @@ category | Problem | Status
 --- | --- | ---
 Binary Search | Search in 2D Matrix | ✅
 Binary Search | Search in 2D Matrix II | ✅
+
+> Day 16: 10 August 2026
+
+category | Problem | Status
+--- | --- | ---
+Binary Search | Spiral Matrix | ✅
