@@ -117,3 +117,11 @@ Binary Search | Search in 2D Matrix II | ✅
 category | Problem | Status
 --- | --- | ---
 Binary Search | Spiral Matrix | ✅
+
+> Day 17: 11 August 2026
+
+category | Problem | Status
+--- | --- | ---
+Two Pointer Approach | Floyd's Cycle Finding Alg | Solve using Binary Search
+
+
