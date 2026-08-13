@@ -124,4 +124,8 @@ category | Problem | Status
 --- | --- | ---
 Two Pointer Approach | Floyd's Cycle Finding Alg | Solve using Binary Search
 
+> Day 18: 13 August 2026
 
+category | Problem | Status
+--- | --- | ---
+Binary Search | Ship Packages in D days | ✅
