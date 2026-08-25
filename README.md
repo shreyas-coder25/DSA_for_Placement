@@ -129,3 +129,7 @@ Two Pointer Approach | Floyd's Cycle Finding Alg | Solve using Binary Search
 category | Problem | Status
 --- | --- | ---
 Binary Search | Ship Packages in D days | ✅
+
+> Day 19: 25 August 2026
+--- | --- | ---
+Binary Search | Search in Rotated Sorted Array | ✅
