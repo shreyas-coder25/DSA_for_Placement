@@ -131,5 +131,13 @@ category | Problem | Status
 Binary Search | Ship Packages in D days | ✅
 
 > Day 19: 25 August 2026
+
+category | Problem | Status
 --- | --- | ---
 Binary Search | Search in Rotated Sorted Array | ✅
+
+> Day 20: 28 August 2026
+
+Category | Problem | Status
+--- | --- | ---
+Binary Search | Find Minimum in Rotated Sorted Array | ✅
