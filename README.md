@@ -141,3 +141,9 @@ Binary Search | Search in Rotated Sorted Array | ✅
 Category | Problem | Status
 --- | --- | ---
 Binary Search | Find Minimum in Rotated Sorted Array | ✅
+
+> Day 21: 2 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Hashing | Valid Sudoku | ✅ (Understand the 9 blocks search logic)
