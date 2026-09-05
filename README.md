@@ -147,3 +147,9 @@ Binary Search | Find Minimum in Rotated Sorted Array | ✅
 Category | Problem | Status
 --- | --- | ---
 Hashing | Valid Sudoku | ✅ (Understand the 9 blocks search logic)
+
+> Day 22: 5 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Two Pointer Approach | 3 Sum | ✅(Revise later all approaches)
