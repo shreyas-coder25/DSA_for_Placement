@@ -95,5 +95,5 @@ public:
 // Space Complexity: O(n) where n is the size of the input array. 
 // We are using a set to store unique triplets and another set to store the elements we have seen so far.
 // 3. Two Pointers Approach
-// Time Complexity: O(n^2) where n is the size of the input array. We are using two nested loops to find all triplets.
+// Time Complexity: O(n^2 + nlog(n)) where n is the size of the input array. We are using two nested loops to find all triplets.
 // Space Complexity: O(1) where n is the size of the input array. We are not using any extra space to store unique triplets.

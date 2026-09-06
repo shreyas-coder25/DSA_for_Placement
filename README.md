@@ -153,3 +153,9 @@ Hashing | Valid Sudoku | ✅ (Understand the 9 blocks search logic)
 Category | Problem | Status
 --- | --- | ---
 Two Pointer Approach | 3 Sum | ✅(Revise later all approaches)
+
+> Day 23: 6 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Two Pointer Approach | 4 Sum | ✅
