@@ -159,3 +159,9 @@ Two Pointer Approach | 3 Sum | ✅(Revise later all approaches)
 Category | Problem | Status
 --- | --- | ---
 Two Pointer Approach | 4 Sum | ✅
+
+> Day 24: 8 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Prefix Sum | Subarray sum equals k | ✅ (resolve later)
