@@ -38,4 +38,4 @@ public:
 //     - initialize m[0] = 1; as starting sum of prefix = 0
 //     - Find the prefix sum 
 //     - Check if it was in the hash map
-//     - if yes then add its count to ans
+//     - if yes then add its count to answer

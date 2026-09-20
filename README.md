@@ -165,3 +165,9 @@ Two Pointer Approach | 4 Sum | ✅
 Category | Problem | Status
 --- | --- | ---
 Prefix Sum | Subarray sum equals k | ✅ (resolve later)
+
+> Day 25: 20 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Recurrsion | Learn the Fundamentals | ✅
