@@ -171,3 +171,9 @@ Prefix Sum | Subarray sum equals k | ✅ (resolve later)
 Category | Problem | Status
 --- | --- | ---
 Recurrsion | Learn the Fundamentals | ✅
+
+> Day 26: 23 September 2026
+
+Category | Problem | Status
+--- | --- | ---
+Recurrsion | Subsets | ✅
