@@ -177,3 +177,9 @@ Recurrsion | Learn the Fundamentals | ✅
 Category | Problem | Status
 --- | --- | ---
 Recurrsion | Subsets | ✅
+
+> Day 27: 1 October 2026
+
+Category | Problem | Status
+--- | --- | ---
+Recurrsion | Subsets 2 | ✅
