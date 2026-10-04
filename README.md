@@ -183,3 +183,9 @@ Recurrsion | Subsets | ✅
 Category | Problem | Status
 --- | --- | ---
 Recurrsion | Subsets 2 | ✅
+
+> Day 27: 4 October 2026
+
+Category | Problem | Status
+--- | --- | ---
+Recurrsion | Permutation | ✅ 
